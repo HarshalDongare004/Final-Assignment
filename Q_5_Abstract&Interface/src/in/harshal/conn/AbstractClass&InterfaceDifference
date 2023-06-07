@@ -1,0 +1,11 @@
+Difference between abstract class and interface
+
+* The abstract keyword is used to declare abstract class. an interface keyword is used to declare interface.
+
+* An abstract class an extends another java class and implements the java interface.
+
+* An abstract class can provide the implementation of interface. An interface cant provide the implementation of abstract class.
+
+* Abstract class can hava final, non-final, static, non-static variable. An interface can only have static and final variables.
+
+* Abstract class can have both abstract and non-abstract methods. An interface can only have abstract methods.
